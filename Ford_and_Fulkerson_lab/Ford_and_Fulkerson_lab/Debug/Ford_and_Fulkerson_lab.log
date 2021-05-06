@@ -1,0 +1,12 @@
+﻿  Ford_and_Fulkerson.cpp
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\Ford_and_Fulkerson.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\Ford_and_Fulkerson.cpp(30,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\Ford_and_Fulkerson.cpp(37,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\Ford_and_Fulkerson.cpp(42,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\Ford_and_Fulkerson.cpp(53,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\Ford_and_Fulkerson.cpp(64,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\Ford_and_Fulkerson.cpp(80,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\Ford_and_Fulkerson.cpp(76,6): warning C4101: bufVe: неиспользованная локальная переменная
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\Ford_and_Fulkerson.cpp(76,13): warning C4101: bufPrice: неиспользованная локальная переменная
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Ford_and_Fulkerson_lab\Ford_and_Fulkerson.cpp(98,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Ford_and_Fulkerson_lab.vcxproj -> C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Debug\Ford_and_Fulkerson_lab.exe

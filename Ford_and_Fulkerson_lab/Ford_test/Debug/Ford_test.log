@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Ford_test.cpp
+     Создается библиотека C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Debug\Ford_test.lib и объект C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Debug\Ford_test.exp
+Ford_test.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Ford_and_Fulkerson::readList(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?readList@Ford_and_Fulkerson@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции "public: void __thiscall Fordtest::lab3test::big_graph(void)" (?big_graph@lab3test@Fordtest@@QAEXXZ)
+Ford_test.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int __thiscall Ford_and_Fulkerson::MaxFlow(void)" (?MaxFlow@Ford_and_Fulkerson@@QAEHXZ) в функции "public: void __thiscall Fordtest::lab3test::big_graph(void)" (?big_graph@lab3test@Fordtest@@QAEXXZ)
+C:\Users\Ксения\Documents\универ дз\4 сем\AiSD\Ford_and_Fulkerson_lab4.4\Ford_and_Fulkerson_lab\Debug\Ford_test.dll : fatal error LNK1120: неразрешенных внешних элементов: 2
